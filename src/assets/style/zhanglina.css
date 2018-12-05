@@ -1,0 +1,92 @@
+/* 标题按钮 */
+.toggleContrastAndTrend .el-button {
+  border: none;
+  margin: 0;
+  border-radius: 0px;
+}
+/* 销售样式*/
+.filter-wrap .el-collapse-item__header,
+.filter-wrap .el-collapse-item__arrow {
+  height: 30px;
+  line-height: 30px;
+}
+.filter-wrap .el-collapse-item__header {
+  position: relative;
+}
+.filter-wrap .el-collapse-item__arrow {
+  float: none;
+  position: absolute;
+  right: 20px;
+}
+.filter-wrap .el-collapse-item__content {
+}
+.filter-wrap .radio-item-wrap .el-input__inner {
+  height: 25px;
+  line-height: 25px;
+  width: 120px;
+}
+.filter-wrap .radio-item-wrap .el-input__icon {
+  line-height: 25px;
+}
+.filter-wrap .radio-item-wrap .el-range-separator,
+.filter-wrap .radio-item-wrap .el-range__close-icon {
+  margin-top: -8px;
+}
+.filter-wrap .radio-item-wrap .el-date-editor {
+  width: 120px;
+}
+.filter-wrap .radio-item-wrap .el-button {
+  padding: 5px 17px;
+}
+.filter-wrap .el-tag {
+  height: 22px; 
+  line-height: 20px;
+  padding: 0 5px;
+  margin-left: 5px;
+}
+.filter-wrap .el-checkbox {
+  margin-left: 0;
+  margin-right: 30px;
+}
+.filter-wrap .el-checkbox__inner {
+  z-index: auto;
+}
+.filter-wrap .search-input .el-input__inner {
+  height: 26px;
+  line-height: 24px;
+  font-size: 14px;
+}
+.filter-wrap .search-input .el-input__icon {
+  line-height: 20px;
+  height: 20px;
+}
+.alphbet-classify .el-checkbox {
+  margin-left: 0;
+  margin-right: 30px;
+}
+.alphbet-classify .el-checkbox__label {
+  width: 100px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-top: -2px;
+}
+/* 图表部分 */
+.group-wrap .group-select .el-input__inner {
+  height: 25px;
+  line-height: 25px;
+  width: 130px;
+}
+.group-wrap .group-select .el-input__icon {
+  line-height: 25px;
+}
+/* 表格部分 */
+.table-wrap-hsq .el-table .cell {
+  padding-left: 0;
+  padding-right: 0;
+  white-space: nowrap;
+}
+.table-wrap-hsq .el-table td {
+  padding: 7px 0;
+}

@@ -1,0 +1,15 @@
+
+/**价格样式**/
+.box .selectBox .el-input {
+  width: 150px;
+}
+.box .selectBox .el-input__inner {
+  height: 25px;
+  line-height: 25px;
+}
+.el-table td {
+  padding: 7px 0;
+}
+.box .checkAndSearchAndTagsBox .styleTypeCheckBox .el-checkbox__label {
+  width: 418px;
+}
